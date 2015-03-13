@@ -45,13 +45,13 @@ float: left;
 margin-top:24px;
 text-align:center;
 font-family:Georgia, "Times New Roman", Times, serif;
-background-image:url(tab.gif);
+background-image:url(http://i.imgur.com/OqpvQWh.gif);
 position:relative; bottom:0px;
 }
 
 .link:hover
 {
-background-image:url(tab2.gif);
+background-image:url(http://i.imgur.com/KqfJ2D7.gif);
 }
 
 a
@@ -121,7 +121,7 @@ width:560px;
 width:600px;
 height:20px;
 background-color:#FFFFFF;
-background-image:url(header.gif);
+background-image:url(http://i.imgur.com/q5LFSms.gif);
 background-repeat:no-repeat;
 }
 #footer
@@ -129,7 +129,7 @@ background-repeat:no-repeat;
 width:600px;
 height:20px;
 background-color:#FFFFFF;
-background-image:url(footer.gif);
+background-image:url(http://i.imgur.com/ZLwOJZT.gif);
 background-repeat:no-repeat;
 text-align:center;
 padding-right:10px;
